@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660750743 source:c:\users\ant\documents\onenote notebooks\uvacuttingsticks\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<functional>
+	<algorithm>
+	<cstring>
+
